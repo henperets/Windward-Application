@@ -34,7 +34,7 @@ All logic is in memory, no DB.
 
 From the project root:
 
-1. Install dependencies (once):
+1. Install dependencies (npm install origin + client + server):
 
 ```bash
 npm install
