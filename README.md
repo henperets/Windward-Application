@@ -32,10 +32,9 @@ All logic is in memory, no DB.
 
 ## How to run
 
-From the project root:
-
-1. Install dependencies (npm install origin + client + server):
-
 ```bash
+# install dependencies (origin + client + server)
 npm install
-```
+
+# then run the app
+npm start
